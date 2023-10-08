@@ -1,5 +1,6 @@
 package Homework5;
-public class task4 {
+
+public class Task4 {
     public static void main(String[] args) {
         double[] arrayFth = new double[37];
         double x = 0;

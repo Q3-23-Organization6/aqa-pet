@@ -1,5 +1,6 @@
 package Homework5;
-public class task2 {
+
+public class Task2 {
     public static void main(String[] args) {
         int[] arraySnd = {32, -2, 5, 99, 22};
         int min = arraySnd[0];
